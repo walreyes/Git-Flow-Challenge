@@ -75,3 +75,17 @@ Reference-style:
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 PARTE 2
+
+cambios en brach feature/image-post
+
+
+
+var s = "JavaScript syntax highlighting";
+alert(s);
+
+s = "Python syntax highlighting"
+print s
+
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+
